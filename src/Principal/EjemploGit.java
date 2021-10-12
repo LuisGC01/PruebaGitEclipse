@@ -9,6 +9,7 @@ public class EjemploGit {
 		System.out.println(nombre);
 		int a = 0;
 		System.out.println(a);
+		a++;
 	}
 
 }
